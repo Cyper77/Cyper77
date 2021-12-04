@@ -1,7 +1,8 @@
 ### Selam Nbr 👋
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyper77&show_icons=true&theme=radical)](https://github.com/Cyper77)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=microsoft&theme=radical)](https://github.com/microsoft)
+
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyper77&theme=radical)](https://github.com/Cyper77)
 **Cyper77/Cyper77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
